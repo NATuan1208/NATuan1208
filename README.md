@@ -1,4 +1,4 @@
-<h1 align="center">Nguyễn Anh Tuấn · Ted</h1>
+<h1 align="center">Nguyễn Anh Tuấn</h1>
 
 <p align="center">
   <b>Data Engineering Student @ UIT VNU-HCM</b><br/>
