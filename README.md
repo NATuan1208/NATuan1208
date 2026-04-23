@@ -26,7 +26,7 @@ Final-year IT student at the University of Information Technology (UIT), VNU-HCM
 I specialize in **data pipeline engineering** and **real-time streaming systems**, with hands-on experience designing Lambda architectures, lakehouse foundations, and ML-integrated pipelines on production-scale datasets. Currently targeting **Data Engineer Intern** roles at tech-forward companies in Vietnam.
 
 - 🎓 **UIT VNU-HCM** — Information Technology, GPA 8.84/10
-- 🌐 **IELTS** 6.5 (valid 2025–2027)
+- 🌐 **IELTS** 6.5 (valid 2026–2028)
 - 🏅 2× Excellent Student · 3× Merit Student commendation
 - 📍 Ho Chi Minh City, Vietnam
 
