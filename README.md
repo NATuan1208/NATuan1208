@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:23521716@gm.uit.edu.vn">
-    <img src="https://img.shields.io/badge/Email-23521716%40gm.uit.edu.vn-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22"/>
+  <a href="mailto:natuan1227@gmail.com">
+    <img src="https://img.shields.io/badge/Email-natuan1227%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22"/>
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%E1%BB%85n-anh-tu%E1%BA%A5n-28118a305/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22"/>
