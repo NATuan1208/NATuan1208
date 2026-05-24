@@ -1,7 +1,7 @@
 <h1 align="center">Nguyễn Anh Tuấn</h1>
 
 <p align="center">
-  <b>Data Engineering Student @ UIT VNU-HCM</b><br/>
+  <b>Data/AI Engineering Student @ UIT VNU-HCM</b><br/>
   Building production-grade data pipelines & real-time analytics systems
 </p>
 
